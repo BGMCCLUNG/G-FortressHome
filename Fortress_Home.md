@@ -268,6 +268,7 @@ See `/candidates/` folder for full notes on each property.
 | 116 Hawkins Ave, Perry Hilltop | 15214 | Ref 3 | ❌ Street only | ❌ Pass | PLI score 1, brick, condemned, taxes unpaid since 2023. Owner: Brandon Cahall, PO Box 99933 Pgh 15233. No parking = disqualified. |
 | 115 Hawkins Ave, Perry Hilltop | 15214 | — | ❌ Street only | ❌ Pass | Land Bank $35K. Street parking only, 1925 build, wrong era. |
 | Deutschtown Model T Workshop | 15212 | Ref 3 | ✅ Integral garage | 🔍 Research | Original garage doors, car lift, hardwood floors, trolley track beam. Price unknown — find it. |
+| 1201 Boyle St, 22nd Ward | 15212 | Ref 1 | ⚠️ Side lot TBD | 👀 Watch | Limestone-fronted Mansard rowhouse, 1900, 3,090 sq ft, 5 bed. PLI score 1. Nonprofit owner lapsed exemption, 2026 taxes unpaid. Extraordinary bones — strongest distressed candidate to date. Side lot ownership = gate question. Waiting on timing. |
 | 1313 Sandusky St, Central Northside | 15212 | — | ❌ Street only | ❌ Pass | Frame/stone, $258K sale 2021 now in foreclosure. Street parking only + wrong price history. |
 
 ---
